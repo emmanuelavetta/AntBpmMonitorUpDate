@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
-  "code": 4,
+  "version": "1.5.0",
+  "code": 5,
   "url": "https://github.com/emmanuelavetta/AntBpmMonitorUpDate/releases/latest/download/app-release.apk",
-  "notes": "Cambiato aspetto dettaglio attività",
-  "sha256": "cf3e514d0b7f4d9e9b24aa791a719f4114622d487fe157aa04ac163df6c0b144"
+  "notes": "Aggiunta zona 0 e alert superamento zone",
+  "sha256": "14a451fecf08d84f306f7dc13baa4195b2195874d6180fac0aa774bb59e23d66"
 }
